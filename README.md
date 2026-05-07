@@ -1,6 +1,6 @@
 #  Hola, soy Juan Camilo Vivas Dorado
 
- Tecnólogo ADSO  
+ Tecnólogo Análisis y desarrollo de software
  Aprendiendo Java y Bases de Datos  
  Me gusta el desarrollo de software
 
